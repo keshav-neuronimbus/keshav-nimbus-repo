@@ -18,4 +18,6 @@ $num3 = 0xFFAA # hex
 # curly {} brackets to delineate variables within strings 
 
 $message = "i have an ${var_fruit},and numbers ${array_one}."
- 
+
+# to use specific values of array use index
+$broadcast = "blah blah blah ${array_one[2]}" 
