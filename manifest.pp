@@ -15,7 +15,7 @@ $num3 = 0xFFAA # hex
 
 # sinlge quotes for independent strings
 # double quotes for interpolation
-# curly {} brackets for 
+# curly {} brackets to delineate variables within strings 
 
 $message = "i have an ${var_fruit},and numbers ${array_one}."
  
